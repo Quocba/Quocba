@@ -1,6 +1,14 @@
 <!-- ===== HERO / ANIMATION HEADER ===== -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/kvssankar/kvssankar/main/programmer.gif" width="Auto" />
+  <img src="https://readme-typing-svg.demolab.com?
+font=Orbitron
+&size=36
+&pause=1200
+&color=C0C0C0
+&center=true
+&vCenter=true
+&width=800
+&lines=Đời+Dev+Silver;Backend+Developer;Clean+%26+Scalable+Systems" />
 </p>
 
 <p align="center">
