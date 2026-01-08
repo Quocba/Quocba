@@ -44,67 +44,17 @@
 <div align="center">
   <h2>🛠 Tech Stack</h2>
   <img src="https://skillicons.dev/icons?i=cs,dotnet,java,spring,cpp,js,html,css,postgres,mysql,sqlserver,docker,redis,rabbitmq,git,vscode,selenium&perline=8" />
+  <br/><br/>
+  <a href="./3d-tech-stack.html"><strong>🚀 View Interactive 3D Tech Stack</strong></a>
 </div>
 
 <br/>
 
 ## 💼 Work Experience
 
-<table align="center" width="100%">
-  <thead>
-    <tr>
-      <th width="20%">Duration</th>
-      <th width="20%">Role & Company</th>
-      <th width="60%">Details</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td align="center">Nov 2024 - Present</td>
-      <td align="center"><strong>Backend Developer</strong><br/><em>Freelancer</em></td>
-      <td>
-        <ul>
-          <li><strong>Tech:</strong> ASP.NET API, Rabbit MQ, Redis, Docker</li>
-          <li><strong>Architecture:</strong> Clean Architecture, CQRS, Unit Of Work</li>
-          <li>Designed high-performance APIs & implemented security solutions.</li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td align="center">Apr 2025 - Sep 2025</td>
-      <td align="center"><strong>.NET Developer</strong><br/><em>IIT Joint Stock Company</em></td>
-      <td>
-        <ul>
-          <li><strong>Tech:</strong> ASP.NET, WPF, .NET MAUI, Socket</li>
-          <li>Increased lab management efficiency by 50% via remote control apps.</li>
-          <li>Built multi-mode chat & screen monitoring systems.</li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td align="center">Nov 2024 - Apr 2025</td>
-      <td align="center"><strong>Automation Tester</strong><br/><em>FPT Software Can Tho</em></td>
-      <td>
-        <ul>
-          <li><strong>Tech:</strong> Java, Cucumber, Selenium</li>
-          <li>Automated 100+ tests, accelerating process by 50%.</li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td align="center">May 2023 - Aug 2023</td>
-      <td align="center"><strong>Backend Developer</strong><br/><em>FPT Software Can Tho</em></td>
-      <td>
-        <ul>
-          <li><strong>Tech:</strong> Java, Spring Boot, Hibernate</li>
-          <li>Built 30+ APIs for E-Commerce project.</li>
-        </ul>
-      </td>
-    </tr>
-  </tbody>
-</table>
+*[Hidden] View my full history on [LinkedIn](https://linkedin.com/in/bao1605)*
 
-<br/>
+---
 
 ## 🚀 Featured Projects
 

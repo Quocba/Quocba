@@ -1,0 +1,194 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Quocba's 3D Tech Stack</title>
+    <style>
+        body { margin: 0; overflow: hidden; background-color: #050505; color: white; font-family: 'Courier New', Courier, monospace; }
+        #canvas-container { width: 100vw; height: 100vh; }
+        #overlay {
+            position: absolute;
+            top: 20px;
+            left: 20px;
+            pointer-events: none;
+            z-index: 10;
+        }
+        h1 { margin: 0; text-shadow: 0 0 10px #00ffff; }
+        p { color: #aaaaaa; }
+        .controls {
+            position: absolute;
+            bottom: 20px;
+            left: 50%;
+            transform: translateX(-50%);
+            color: #888;
+            font-size: 0.8rem;
+            pointer-events: none;
+        }
+    </style>
+</head>
+<body>
+    <div id="overlay">
+        <h1>Trần Quốc Bảo</h1>
+        <p>3D Interactive Tech Stack</p>
+    </div>
+    <div class="controls">Click & Drag to Rotate | Scroll to Zoom</div>
+    <div id="canvas-container"></div>
+
+    <!-- Three.js CDN -->
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/three.js/r128/three.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/three@0.128.0/examples/js/controls/OrbitControls.js"></script>
+
+    <script>
+        // Setup Scene
+        const scene = new THREE.Scene();
+        // Add some fog for depth
+        scene.fog = new THREE.FogExp2(0x050505, 0.002);
+
+        const camera = new THREE.PerspectiveCamera(75, window.innerWidth / window.innerHeight, 0.1, 1000);
+        const renderer = new THREE.WebGLRenderer({ antialias: true, alpha: true });
+        
+        renderer.setSize(window.innerWidth, window.innerHeight);
+        renderer.setPixelRatio(window.devicePixelRatio);
+        document.getElementById('canvas-container').appendChild(renderer.domElement);
+
+        // Orbit Controls
+        const controls = new THREE.OrbitControls(camera, renderer.domElement);
+        controls.enableDamping = true;
+        controls.dampingFactor = 0.05;
+        controls.autoRotate = true;
+        controls.autoRotateSpeed = 2.0;
+
+        // Lighting
+        const ambientLight = new THREE.AmbientLight(0xffffff, 0.5);
+        scene.add(ambientLight);
+
+        const pointLight = new THREE.PointLight(0xffffff, 1);
+        pointLight.position.set(10, 10, 10);
+        scene.add(pointLight);
+
+        const pointLight2 = new THREE.PointLight(0x00ffff, 0.8); // Cyan rim light
+        pointLight2.position.set(-10, -10, -5);
+        scene.add(pointLight2);
+
+        // Tech Stack Textures (Using placeholders or generatable canvas textures)
+        // Since we can't easily load external images without CORS issues in some local envs, 
+        // we will generate textures from text on canvas.
+        
+        function createTextTexture(text, color) {
+            const canvas = document.createElement('canvas');
+            canvas.width = 256;
+            canvas.height = 256;
+            const ctx = canvas.getContext('2d');
+            
+            // Background
+            ctx.fillStyle = '#111111';
+            ctx.fillRect(0, 0, 256, 256);
+            
+            // Border
+            ctx.strokeStyle = color;
+            ctx.lineWidth = 10;
+            ctx.strokeRect(5, 5, 246, 246);
+
+            // Text
+            ctx.font = 'bold 40px Arial';
+            ctx.fillStyle = color;
+            ctx.textAlign = 'center';
+            ctx.textBaseline = 'middle';
+            ctx.fillText(text, 128, 128);
+
+            const texture = new THREE.CanvasTexture(canvas);
+            return texture;
+        }
+
+        const techs = [
+            { name: "C#", color: "#9b4993" },
+            { name: ".NET", color: "#512bd4" },
+            { name: "Java", color: "#f89820" },
+            { name: "Spring", color: "#6db33f" },
+            { name: "Docker", color: "#2496ed" },
+            { name: "Redis", color: "#dc382d" },
+            { name: "SQL", color: "#e48e00" },
+            { name: "RabbitMQ", color: "#ff6600" },
+            { name: "React", color: "#61dafb" },
+            { name: "JS", color: "#f7df1e" },
+            { name: "HTML", color: "#e34f26" },
+            { name: "Git", color: "#f05032" }
+        ];
+
+        const cubes = [];
+        const geometry = new THREE.BoxGeometry(1.5, 1.5, 1.5);
+
+        // Create a formation of cubes
+        // Let's make a floating ring of cubes
+        const radius = 6;
+        const count = techs.length;
+
+        for (let i = 0; i < count; i++) {
+            const texture = createTextTexture(techs[i].name, techs[i].color);
+            const material = new THREE.MeshStandardMaterial({ 
+                map: texture,
+                metalness: 0.1,
+                roughness: 0.2
+            });
+            
+            const cube = new THREE.Mesh(geometry, material);
+            
+            const angle = (i / count) * Math.PI * 2;
+            cube.position.x = Math.cos(angle) * radius;
+            cube.position.z = Math.sin(angle) * radius;
+            cube.rotation.y = -angle; // Face outward-ish
+
+            // Add slight random y offset
+            cube.position.y = (Math.random() - 0.5) * 2;
+
+            scene.add(cube);
+            cubes.push({ mesh: cube, initialY: cube.position.y, speed: Math.random() * 0.02 + 0.01, time: Math.random() * 100 });
+        }
+
+        // Particle System (Stars)
+        const particlesGeometry = new THREE.BufferGeometry();
+        const particlesCount = 1500;
+        const posArray = new Float32Array(particlesCount * 3);
+
+        for(let i = 0; i < particlesCount * 3; i++) {
+            posArray[i] = (Math.random() - 0.5) * 50;
+        }
+        particlesGeometry.setAttribute('position', new THREE.BufferAttribute(posArray, 3));
+        const particlesMaterial = new THREE.PointsMaterial({ size: 0.05, color: 0xffffff });
+        const particlesMesh = new THREE.Points(particlesGeometry, particlesMaterial);
+        scene.add(particlesMesh);
+
+        camera.position.z = 12;
+        camera.position.y = 2;
+
+        // Animation Loop
+        function animate() {
+            requestAnimationFrame(animate);
+
+            // Floating effect for cubes
+            const time = Date.now() * 0.001;
+            cubes.forEach(item => {
+                item.mesh.rotation.x += 0.01;
+                item.mesh.rotation.y += 0.01;
+                item.mesh.position.y = item.initialY + Math.sin(time + item.time) * 0.5;
+            });
+
+            // Slowly rotate particles
+            particlesMesh.rotation.y += 0.0005;
+
+            controls.update();
+            renderer.render(scene, camera);
+        }
+
+        animate();
+
+        // Handle Window Resize
+        window.addEventListener('resize', () => {
+            camera.aspect = window.innerWidth / window.innerHeight;
+            camera.updateProjectionMatrix();
+            renderer.setSize(window.innerWidth, window.innerHeight);
+        });
+    </script>
+</body>
+</html>
