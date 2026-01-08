@@ -1,103 +1,94 @@
 <div align="center">
-  <img src="https://media.giphy.com/media/L1R1TVTh2RhtR5Jgww/giphy.gif" width="200" alt="3D Avatar Coding" />
+  <img src="https://user-images.githubusercontent.com/74038190/212257460-705f13d8-5b4d-4ba6-8c85-263F13D8.gif" width="100" />
+</div>
+
+<h1 align="center">Hi there, I'm <span style="color:#512bd4">Trần Quốc Bảo</span> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/></h1>
+
+<div align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=20C20E&background=00000000&center=true&vCenter=true&width=500&lines=Software+Developer;Backend+.NET+Specialist;System+Architecture+Enthusiast;Clean+Code+Practitioner" alt="Typing SVG" />
+  </a>
+</div>
+
+<p align="center">
+  <a href="mailto:tqbao.work@gmail.com">
+    <img src="https://img.shields.io/badge/Email-tqbao.work%40gmail.com-2ea44f?style=for-the-badge&logo=gmail" />
+  </a>
+  <a href="https://linkedin.com/in/bao1605">
+    <img src="https://img.shields.io/badge/LinkedIn-Trần_Quốc_Bảo-0077B5?style=for-the-badge&logo=linkedin" />
+  </a>
+</p>
+
+<br />
+
+### 👨‍💻 About Me
+
+> I am a dedicated **Software Developer** specializing in the **.NET ecosystem**. My passion lies in building scalable, high-performance backend systems and architecting clean, maintainable solutions. I actively leverage modern technologies like **Microservices**, **Docker**, and **Cloud-native patterns** to solve complex business problems.
+
+<br />
+
+### 🛠 Tech Stack & System Design
+
+<div align="center">
   
-  <h1 align="center">Hi, I'm Trần Quốc Bảo <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px"></h1>
+  **Core & Languages**
+  <br />
+  <img src="https://skillicons.dev/icons?i=cs,dotnet,java,cpp&theme=dark" />
+  
+  <br /><br />
+  
+  **Backend & Architecture**
+  <br />
+  <img src="https://skillicons.dev/icons?i=spring,rabbitmq,redis,kafka,nginx&theme=dark" />
+  
+  <br /><br />
+  
+  **Data & Storage**
+  <br />
+  <img src="https://skillicons.dev/icons?i=sqlserver,postgres,mysql,mongodb&theme=dark" />
+  
+  <br /><br />
 
-  <h3 align="center">
-    <a href="https://git.io/typing-svg">
-      <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=A9D2FF&center=true&vCenter=true&width=450&lines=Software+Developer;Backend+Architect;Continuous+Learner;Vibe+Coder" alt="Typing SVG" />
-    </a>
-  </h3>
+  **DevOps & Tools**
+  <br />
+  <img src="https://skillicons.dev/icons?i=docker,git,github,vscode,visualstudio,postman&theme=dark" />
 
-  <div align="center">
-    <a href="mailto:tqbao.work@gmail.com">
-      <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="30" />
-    </a>
-    <a href="https://linkedin.com/in/bao1605">
-      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="30" />
-    </a>
-    <a href="https://github.com/Quocba">
-      <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" height="30" />
-    </a>
-  </div>
 </div>
 
-<br/>
+<br />
+
+### 🚀 Featured Projects
+
+| Project | Role | Architecture & Tech |
+| :--- | :--- | :--- |
+| **DCSE** | *Backend Lead* | **ASP.NET Core API**, **Microservices**, **CQRS**. <br/> Integrated **RabbitMQ** for async processing and **Redis** for distributed caching. Implemented **JWT** security and high-throughput endpoints. |
+| **OhBau** | *Backend Developer* | **RESTful API**, **SQL Server**. <br/> Optimized database performance for high-traffic mobile application. Reduced latency via aggressive caching strategies. |
+
+<br />
+
+### 📊 GitHub Analytics
 
 <div align="center">
-  <h2>🏆 Trophies</h2>
-  <img src="https://github-profile-trophy.vercel.app/?username=Quocba&theme=juicyfresh&no-frame=true&margin-w=15&no-bg=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Quocba&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=512bd4&icon_color=512bd4" height="160" alt="stats graph" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Quocba&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=512bd4" height="160" alt="languages graph" />
 </div>
 
-<br/>
-
 <div align="center">
-  <h2>📊 GitHub Stats</h2>
-  <img src="https://github-readme-stats.vercel.app/api?username=Quocba&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000" height="150" alt="stats graph" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Quocba&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000" height="150" alt="languages graph" />
-  <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Quocba&theme=tokyonight&hide_border=true&bg_color=00000000" alt="streak graph" />
+  <br />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Quocba&theme=radical&hide_border=true&bg_color=0d1117&stroke=512bd4&ring=512bd4&fire=512bd4&currStreakNum=512bd4" alt="streak graph" />
 </div>
 
-<br/>
+<br />
+
+### 📈 Contribution Activity
 
 <div align="center">
-  <h2>🛠 Tech Stack</h2>
-  <img src="https://skillicons.dev/icons?i=cs,dotnet,java,spring,cpp,js,html,css,postgres,mysql,sqlserver,docker,redis,rabbitmq,git,vscode,selenium&perline=8" />
-  <br/><br/>
-  <a href="./3d-tech-stack.html"><strong>🚀 View Interactive 3D Tech Stack</strong></a>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Quocba&theme=react-dark&hide_border=true&area=true" width="100%" />
 </div>
 
-<br/>
-
-## 💼 Work Experience
-
-*[Hidden] View my full history on [LinkedIn](https://linkedin.com/in/bao1605)*
-
----
-
-## 🚀 Featured Projects
-
-<table align="center" width="100%">
-  <thead>
-    <tr>
-      <th width="20%">Project</th>
-      <th width="20%">Role</th>
-      <th width="60%">Description</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td align="center"><strong>DCSE</strong></td>
-      <td align="center">Backend Developer</td>
-      <td>
-         Developed 100+ high-performance APIs using <strong>ASP.NET</strong> & <strong>SQL Server</strong>. Implemented <strong>RabbitMQ</strong> for async tasks, <strong>Redis</strong> for caching, and <strong>Docker</strong> for deployment. Focused on scalability and security (JWT).
-      </td>
-    </tr>
-    <tr>
-      <td align="center"><strong>OhBau</strong></td>
-      <td align="center">Backend Developer</td>
-      <td>
-        Built backend for mobile app using <strong>ASP.NET Web API</strong>. Optimized database performance and integrated Redis Cache. <br/>
-        <a href="https://play.google.com/store/apps/details?id=com.ohbau_app&hl=vi">📲 Google Play</a> | <a href="https://apps.apple.com/vn/app/ohbau/id6747362141?l=vi">🍏 App Store</a>
-      </td>
-    </tr>
-  </tbody>
-</table>
-
-<br/>
-
-## 🎓 Education
+<br />
 
 <div align="center">
-  <img src="https://media.giphy.com/media/L1R1TVTh2RhtR5Jgww/giphy.gif" width="50" style="visibility:hidden;" /> <!-- Spacer for centering if needed, or remove -->
-  <strong>Bachelor of Software Engineering</strong> | FPT University Can Tho (2020 - 2024) | <strong>GPA: 3.0</strong>
-  <br/>
-  <em>Achievements: 2nd Prize Autonomous Car Level 1 (2021), Published Scientific Paper (2023, 2024)</em>
-</div>
-
-<br/>
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer&text=Let's%20Code%20The%20Future&fontSize=30&animation=fadeIn&fontAlign=50" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0d1117&height=100&section=footer" width="100%" />
+  <p><em>"Code is like humor. When you have to explain it, it’s bad."</em></p>
 </div>
