@@ -39,13 +39,13 @@
 <div align="center">
   <h2>⚡ T E C H &nbsp; A R S E N A L</h2>
   
-  <img src="https://skillicons.dev/icons?i=cs,dotnet,java,cpp,spring,docker,kubernetes,redis,rabbitmq,kafka,nginx,mysql,postgres,sqlserver,git,linux,vscode,visualstudio&perline=9&theme=dark" />
-  
-  <br /><br />
-  
-  <a href="./3d-tech-stack.html">
-    <img src="https://img.shields.io/badge/LAUNCH_3D_EXPERIENCE-CLICK_HERE-ff00ff?style=for-the-badge&logo=three.js&logoColor=white" />
-  </a>
+  <div align="left" style="width: 500px; margin: 0 auto;">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Consolas&weight=600&size=16&pause=1000&color=00FF99&background=00000000&center=false&vCenter=false&multiline=true&width=500&height=100&lines=var+results+=+await+_context.Orders;++++.Include(o+%3D%3E+o.Items);++++.Where(o+%3D%3E+o.Status+%3D%3D+Status.Pending);++++.OrderByDescending(o+%3D%3E+o.CreatedDate);++++.ToListAsync();" alt="C# Code Animation" />
+  </div>
+
+  <br />
+
+  <img src="https://skillicons.dev/icons?i=cs,dotnet,java,cpp,spring,docker,redis,rabbitmq,sqlserver,postgres,git,vscode&perline=12&theme=dark" />
 </div>
 
 <br />
