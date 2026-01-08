@@ -1,6 +1,6 @@
 <!-- ===== HERO / ANIMATION HEADER ===== -->
 <p align="center">
-  <img src="[https://readme-typing-svg.demolab.com?font=Inter&size=30&pause=1000&color=0A66C2&center=true&vCenter=true&width=800&lines=Hi%2C+I'm+Trần+Quốc+Bảo;Software+Developer;Backend+%7C+Clean+Architecture;Building+Scalable+Systems](https://raw.githubusercontent.com/kvssankar/kvssankar/main/programmer.gif)" />
+  <img src="https://raw.githubusercontent.com/kvssankar/kvssankar/main/programmer.gif" width="500" />
 </p>
 
 <p align="center">
