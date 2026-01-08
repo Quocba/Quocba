@@ -1,6 +1,3 @@
-<div align="center">
-  <img src="btech_banner.jpg" width="100%" alt="Banner" />
-</div>
 
 <h1 align="center">
   <a href="https://git.io/typing-svg">
