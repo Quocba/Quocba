@@ -1,94 +1,86 @@
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212257460-705f13d8-5b4d-4ba6-8c85-263F13D8.gif" width="100" />
+  <img src="btech_banner.jpg" width="100%" alt="BTECH Banner" />
 </div>
-
-<h1 align="center">Hi there, I'm <span style="color:#512bd4">Trần Quốc Bảo</span> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/></h1>
 
 <div align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=20C20E&background=00000000&center=true&vCenter=true&width=500&lines=Software+Developer;Backend+.NET+Specialist;System+Architecture+Enthusiast;Clean+Code+Practitioner" alt="Typing SVG" />
-  </a>
+  <img src="https://img.shields.io/badge/Status-Vibe%20Coding-00ffff?style=for-the-badge&logo=visualstudiocode&logoColor=000000&labelColor=00ffff&color=000000">
+  <img src="https://img.shields.io/badge/Mode-Cyberpunk-ff00ff?style=for-the-badge&logo=riotgames&logoColor=000000&labelColor=ff00ff&color=000000">
+  <img src="https://img.shields.io/badge/Role-Backend%20Architect-ffff00?style=for-the-badge&logo=dotnet&logoColor=000000&labelColor=ffff00&color=000000">
 </div>
 
-<p align="center">
+<h1 align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=900&size=35&pause=1000&color=00FFFF&background=00000000&center=true&vCenter=true&width=600&lines=TRẦN+QUỐC+BẢO;BUILDING+THE+FUTURE;DOTNET+MASTERY;SYSTEM+DESIGN" alt="Typing SVG" />
+  </a>
+</h1>
+
+<div align="center">
   <a href="mailto:tqbao.work@gmail.com">
-    <img src="https://img.shields.io/badge/Email-tqbao.work%40gmail.com-2ea44f?style=for-the-badge&logo=gmail" />
+      <img src="https://img.shields.io/badge/Gmail-D14836?style=social&logo=gmail" height="40" />
   </a>
   <a href="https://linkedin.com/in/bao1605">
-    <img src="https://img.shields.io/badge/LinkedIn-Trần_Quốc_Bảo-0077B5?style=for-the-badge&logo=linkedin" />
+      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=social&logo=linkedin" height="40" />
   </a>
-</p>
+  <a href="https://github.com/Quocba">
+      <img src="https://img.shields.io/badge/GitHub-100000?style=social&logo=github" height="40" />
+  </a>
+</div>
 
 <br />
 
-### 👨‍💻 About Me
-
-> I am a dedicated **Software Developer** specializing in the **.NET ecosystem**. My passion lies in building scalable, high-performance backend systems and architecting clean, maintainable solutions. I actively leverage modern technologies like **Microservices**, **Docker**, and **Cloud-native patterns** to solve complex business problems.
+<div align="center"> 
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="800">
+</div>
 
 <br />
-
-### 🛠 Tech Stack & System Design
 
 <div align="center">
+  <h2>⚡ T E C H &nbsp; A R S E N A L</h2>
   
-  **Core & Languages**
-  <br />
-  <img src="https://skillicons.dev/icons?i=cs,dotnet,java,cpp&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=cs,dotnet,java,cpp,spring,docker,kubernetes,redis,rabbitmq,kafka,nginx,mysql,postgres,sqlserver,git,linux,vscode,visualstudio&perline=9&theme=dark" />
   
   <br /><br />
   
-  **Backend & Architecture**
-  <br />
-  <img src="https://skillicons.dev/icons?i=spring,rabbitmq,redis,kafka,nginx&theme=dark" />
+  <a href="./3d-tech-stack.html">
+    <img src="https://img.shields.io/badge/LAUNCH_3D_EXPERIENCE-CLICK_HERE-ff00ff?style=for-the-badge&logo=three.js&logoColor=white" />
+  </a>
+</div>
+
+<br />
+
+<div align="center">
+  <h2>🚀 H I G H L I G H T S</h2>
   
-  <br /><br />
-  
-  **Data & Storage**
-  <br />
-  <img src="https://skillicons.dev/icons?i=sqlserver,postgres,mysql,mongodb&theme=dark" />
-  
-  <br /><br />
-
-  **DevOps & Tools**
-  <br />
-  <img src="https://skillicons.dev/icons?i=docker,git,github,vscode,visualstudio,postman&theme=dark" />
-
-</div>
-
-<br />
-
-### 🚀 Featured Projects
-
-| Project | Role | Architecture & Tech |
-| :--- | :--- | :--- |
-| **DCSE** | *Backend Lead* | **ASP.NET Core API**, **Microservices**, **CQRS**. <br/> Integrated **RabbitMQ** for async processing and **Redis** for distributed caching. Implemented **JWT** security and high-throughput endpoints. |
-| **OhBau** | *Backend Developer* | **RESTful API**, **SQL Server**. <br/> Optimized database performance for high-traffic mobile application. Reduced latency via aggressive caching strategies. |
-
-<br />
-
-### 📊 GitHub Analytics
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Quocba&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=512bd4&icon_color=512bd4" height="160" alt="stats graph" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Quocba&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=512bd4" height="160" alt="languages graph" />
-</div>
-
-<div align="center">
-  <br />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Quocba&theme=radical&hide_border=true&bg_color=0d1117&stroke=512bd4&ring=512bd4&fire=512bd4&currStreakNum=512bd4" alt="streak graph" />
-</div>
-
-<br />
-
-### 📈 Contribution Activity
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Quocba&theme=react-dark&hide_border=true&area=true" width="100%" />
+  <a href="#">
+    <img src="https://img.shields.io/badge/PROJECT-DCSE-00ffff?style=for-the-badge&logo=dotnet&logoColor=black"/>
+  </a>
+  <a href="#">
+    <img src="https://img.shields.io/badge/PROJECT-OHBAU-ff00ff?style=for-the-badge&logo=android&logoColor=black"/>
+  </a>
+  <a href="#">
+    <img src="https://img.shields.io/badge/PAPER-AI_SECURITY-ffff00?style=for-the-badge&logo=arxiv&logoColor=black"/>
+  </a>
 </div>
 
 <br />
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0d1117&height=100&section=footer" width="100%" />
-  <p><em>"Code is like humor. When you have to explain it, it’s bad."</em></p>
+  <img src="https://github-readme-stats.vercel.app/api?username=Quocba&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000&title_color=00ffff&icon_color=00ffff&text_color=ffffff" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Quocba&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000&title_color=ff00ff&icon_color=ff00ff&text_color=ffffff" height="150" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Quocba&theme=tokyonight&hide_border=true&bg_color=00000000&stroke=ffff00&ring=ffff00&fire=ffff00&currStreakNum=ffff00&sideNums=ffffff&sideLabels=ffffff" />
+</div>
+
+<br />
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Quocba&theme=tokyonight&no-frame=true&margin-w=15&no-bg=true" />
+</div>
+
+<br />
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=00ffff,ff00ff,ffff00&height=150&section=footer&text=CODE%20NEVER%20SLEEPS&fontSize=40&animation=fadeIn&fontAlign=50&fontColor=ffffff" width="100%" />
 </div>
