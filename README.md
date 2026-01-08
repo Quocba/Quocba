@@ -1,8 +1,4 @@
 <div align="center">
-  <img src="btech_banner.jpg" width="100%" alt="BTECH Banner" />
-</div>
-
-<div align="center">
   <img src="https://img.shields.io/badge/Status-Vibe%20Coding-00ffff?style=for-the-badge&logo=visualstudiocode&logoColor=000000&labelColor=00ffff&color=000000">
   <img src="https://img.shields.io/badge/Mode-Cyberpunk-ff00ff?style=for-the-badge&logo=riotgames&logoColor=000000&labelColor=ff00ff&color=000000">
   <img src="https://img.shields.io/badge/Role-Backend%20Architect-ffff00?style=for-the-badge&logo=dotnet&logoColor=000000&labelColor=ffff00&color=000000">
