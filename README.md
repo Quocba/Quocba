@@ -28,11 +28,13 @@
 
 <br />
 
-<div align="center"> 
-  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="800">
-</div>
+### 👨‍💻 About Me
+
+> I am a dedicated **Software Developer** specializing in the **.NET ecosystem**. My passion lies in building scalable, high-performance backend systems and architecting clean, maintainable solutions. I actively leverage modern technologies like **Microservices**, **Docker**, and **Cloud-native patterns** to solve complex business problems.
 
 <br />
+
+### 🛠 Tech Stack & System Design
 
 <div align="center">
   <h2>⚡ T E C H &nbsp; A R S E N A L</h2>
@@ -48,25 +50,20 @@
 
 <br />
 
-<div align="center">
-  <h2>🚀 H I G H L I G H T S</h2>
-  
-  <a href="#">
-    <img src="https://img.shields.io/badge/PROJECT-DCSE-00ffff?style=for-the-badge&logo=dotnet&logoColor=black"/>
-  </a>
-  <a href="#">
-    <img src="https://img.shields.io/badge/PROJECT-OHBAU-ff00ff?style=for-the-badge&logo=android&logoColor=black"/>
-  </a>
-  <a href="#">
-    <img src="https://img.shields.io/badge/PAPER-AI_SECURITY-ffff00?style=for-the-badge&logo=arxiv&logoColor=black"/>
-  </a>
-</div>
+### 🚀 Featured Projects
+
+| Project | Role | Architecture & Tech |
+| :--- | :--- | :--- |
+| **DCSE** | *Backend Lead* | **ASP.NET Core API**, **Microservices**, **CQRS**. <br/> Integrated **RabbitMQ** for async processing and **Redis** for distributed caching. Implemented **JWT** security and high-throughput endpoints. |
+| **OhBau** | *Backend Developer* | **RESTful API**, **SQL Server**. <br/> Optimized database performance for high-traffic mobile application. Reduced latency via aggressive caching strategies. |
 
 <br />
 
+### 📊 GitHub Analytics
+
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Quocba&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000&title_color=00ffff&icon_color=00ffff&text_color=ffffff" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Quocba&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000&title_color=ff00ff&icon_color=ff00ff&text_color=ffffff" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Quocba&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=512bd4&icon_color=512bd4" height="160" alt="stats graph" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Quocba&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=512bd4" height="160" alt="languages graph" />
 </div>
 
 <div align="center">
