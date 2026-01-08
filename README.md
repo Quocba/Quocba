@@ -1,14 +1,6 @@
-<!-- ===== HERO / ANIMATION HEADER ===== -->
+<!-- ================= HERO / WHITE ANIMATION HEADER ================= -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?
-font=Orbitron
-&size=36
-&pause=1200
-&color=C0C0C0
-&center=true
-&vCenter=true
-&width=800
-&lines=Đời+Dev+Silver;Backend+Developer;Clean+%26+Scalable+Systems" />
+  <img src="https://readme-typing-svg.demolab.com?font=Inter&size=34&pause=1200&color=FFFFFF&center=true&vCenter=true&width=900&lines=Đời+Dev+Silver;Trần+Quốc+Bảo;Software+Developer;Backend+Engineer;Clean+%26+Scalable+Systems" />
 </p>
 
 <p align="center">
@@ -23,23 +15,23 @@ font=Orbitron
 
 ---
 
-<!-- ===== PROFILE CARD ===== -->
+<!-- ================= PROFILE SECTION ================= -->
 <table>
 <tr>
 <td width="65%">
 
 ## 🎯 Profile
-I am a **Software Developer** with a strong interest in **backend engineering** and **system design**.  
-I value **teamwork**, **continuous learning**, and writing **clean, maintainable code**.
+I am a **Software Developer** with a strong passion for **backend engineering** and **system design**.  
+I focus on building **clean, maintainable, and scalable systems**, while continuously improving my technical skills.
 
-My long-term goal is to deepen my expertise in back-end development and take on **complex, large-scale software systems**.
+My long-term goal is to become a strong back-end engineer capable of designing and implementing **complex, enterprise-level software systems**.
 
 </td>
 <td width="35%">
 
 ### 📌 Info
 - 📧 **Email:** tqbao.work@gmail.com  
-- 📞 **Phone:** 0386 040 060 | 0372 599 558  
+- 📞 **Phone:** 0386 040 060 · 0372 599 558  
 - 📍 **Location:** Sa Dec, Dong Thap, Vietnam  
 
 </td>
@@ -48,78 +40,72 @@ My long-term goal is to deepen my expertise in back-end development and take on 
 
 ---
 
-<!-- ===== SKILLS SECTION ===== -->
+<!-- ================= SKILLS ================= -->
 ## 🛠 Technical Skills
 
-<!-- DATABASE -->
 ### 💾 Databases
 <p>
-  <img src="https://img.shields.io/badge/SQL_Server-CC2927?style=flat&logo=microsoftsqlserver&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SQL_Server-555555?style=flat&logo=microsoftsqlserver&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MySQL-555555?style=flat&logo=mysql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PostgreSQL-555555?style=flat&logo=postgresql&logoColor=white"/>
 </p>
 
-<!-- PROGRAMMING -->
 ### 💻 Programming Languages
 <p>
-  <img src="https://img.shields.io/badge/C/C++-00599C?style=flat&logo=cplusplus&logoColor=white"/>
-  <img src="https://img.shields.io/badge/C%23-239120?style=flat&logo=csharp&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/C/C++-555555?style=flat&logo=cplusplus&logoColor=white"/>
+  <img src="https://img.shields.io/badge/C%23-555555?style=flat&logo=csharp&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Java-555555?style=flat&logo=java&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-555555?style=flat&logo=javascript&logoColor=white"/>
 </p>
 
-<!-- TESTING -->
 ### 🧪 Testing
 <p>
-  <img src="https://img.shields.io/badge/Unit_Testing-6DB33F?style=flat"/>
-  <img src="https://img.shields.io/badge/Integration_Testing-6DB33F?style=flat"/>
-  <img src="https://img.shields.io/badge/System_Testing-6DB33F?style=flat"/>
-  <img src="https://img.shields.io/badge/Automation_Testing-6DB33F?style=flat"/>
+  <img src="https://img.shields.io/badge/Unit_Testing-777777?style=flat"/>
+  <img src="https://img.shields.io/badge/Integration_Testing-777777?style=flat"/>
+  <img src="https://img.shields.io/badge/System_Testing-777777?style=flat"/>
+  <img src="https://img.shields.io/badge/Automation_Testing-777777?style=flat"/>
 </p>
 
-<!-- BACKEND -->
 ### ⚙️ Back-End & Architecture
 <p>
-  <img src="https://img.shields.io/badge/ASP.NET_9-512BD4?style=flat&logo=dotnet&logoColor=white"/>
-  <img src="https://img.shields.io/badge/ASP.NET_Core-512BD4?style=flat&logo=dotnet&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat&logo=springboot&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Microservices-000000?style=flat"/>
-  <img src="https://img.shields.io/badge/RESTful_API-0A66C2?style=flat"/>
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white"/>
-  <img src="https://img.shields.io/badge/IIS_Deployment-0078D7?style=flat"/>
-  <img src="https://img.shields.io/badge/RabbitMQ-FF6600?style=flat&logo=rabbitmq&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Redis-DC382D?style=flat&logo=redis&logoColor=white"/>
+  <img src="https://img.shields.io/badge/ASP.NET_9-666666?style=flat&logo=dotnet&logoColor=white"/>
+  <img src="https://img.shields.io/badge/ASP.NET_Core-666666?style=flat&logo=dotnet&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Spring_Boot-666666?style=flat&logo=springboot&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Microservices-666666?style=flat"/>
+  <img src="https://img.shields.io/badge/RESTful_API-666666?style=flat"/>
+  <img src="https://img.shields.io/badge/Docker-666666?style=flat&logo=docker&logoColor=white"/>
+  <img src="https://img.shields.io/badge/IIS_Deployment-666666?style=flat"/>
+  <img src="https://img.shields.io/badge/RabbitMQ-666666?style=flat&logo=rabbitmq&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Redis-666666?style=flat&logo=redis&logoColor=white"/>
 </p>
 
-<!-- FRONTEND -->
 ### 🌐 Front-End & UI
 <p>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white"/>
-  <img src="https://img.shields.io/badge/WPF-512BD4?style=flat"/>
-  <img src="https://img.shields.io/badge/WinForms-512BD4?style=flat"/>
-  <img src="https://img.shields.io/badge/.NET_MAUI-512BD4?style=flat"/>
-  <img src="https://img.shields.io/badge/MVC-0A66C2?style=flat"/>
-  <img src="https://img.shields.io/badge/Razor_Pages-0A66C2?style=flat"/>
+  <img src="https://img.shields.io/badge/HTML5-777777?style=flat&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CSS3-777777?style=flat&logo=css3&logoColor=white"/>
+  <img src="https://img.shields.io/badge/WPF-777777?style=flat"/>
+  <img src="https://img.shields.io/badge/WinForms-777777?style=flat"/>
+  <img src="https://img.shields.io/badge/.NET_MAUI-777777?style=flat"/>
+  <img src="https://img.shields.io/badge/MVC-777777?style=flat"/>
+  <img src="https://img.shields.io/badge/Razor_Pages-777777?style=flat"/>
 </p>
 
-<!-- VERSION CONTROL -->
 ### 🔧 Version Control
 <p>
-  <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Git-555555?style=flat&logo=git&logoColor=white"/>
 </p>
 
 ---
 
-<!-- ===== GITHUB STATS (ANIMATED FEEL) ===== -->
+<!-- ================= GITHUB STATS ================= -->
 ## 📊 GitHub Activity
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Quocba&show_icons=true&hide_border=true" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Quocba&layout=compact&hide_border=true" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Quocba&show_icons=true&theme=default&hide_border=true" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Quocba&layout=compact&theme=default&hide_border=true" height="160"/>
 </p>
 
 ---
 
 <p align="center">
-  <i>Focused on clean code, scalable architecture, and continuous improvement.</i>
+  <i>Clean code. Clear architecture. Continuous improvement.</i>
 </p>
