@@ -1,110 +1,103 @@
-# Hi there, I'm Trần Quốc Bảo 👋
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=Hi+there!+I'm+Trần+Quốc+Bảo;I+am+a+Software+Developer;I+Love+Coding+and+Sharing" alt="Typing SVG" />
+</div>
 
-## 👨‍💻 Software Developer
+<div align="center">
+  <a href="mailto:tqbao.work@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+  </a>
+  <a href="https://linkedin.com/in/bao1605">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://github.com/Quocba">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+</div>
 
-I am seeking a work environment that values teamwork and professional development, where I can leverage continuous learning and create outstanding software for users. My goal over the next five years is to enhance my back-end programming knowledge and skills to be able to take on more complex software development tasks.
+<br />
 
----
+<div align="center">
+  I am seeking a work environment that values teamwork and professional development, where I can leverage continuous learning and create outstanding software for users.
+</div>
 
-## 📫 Connect with Me
+<br />
 
-- ✉ **Email:** [tqbao.work@gmail.com](mailto:tqbao.work@gmail.com)
-- 📞 **Phone:** 0386040060 - 0372599558
-- 📍 **Address:** 486A, Phu An, Tan Phu Dong, Sa Dec, Dong Thap
-- 💼 **LinkedIn:** [linkedin.com/in/bao1605](https://linkedin.com/in/bao1605)
-- 🐙 **GitHub:** [https://github.com/Quocba](https://github.com/Quocba)
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Quocba&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Quocba&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117" height="150" alt="languages graph" />
+</div>
 
----
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Quocba&theme=tokyonight&hide_border=true&bg_color=0d1117" alt="streak graph" />
+</div>
 
-## 🛠 Skills
+<br />
 
-| Category | Technologies |
-|----------|--------------|
-| **Back-End** | Spring Boot, Asp.Net API, Asp.Net Core, Microservices, Docker, RabbitMQ, Redis, Restful API |
-| **Database** | SQL Server, My SQL, PostgreSQL |
-| **Programming Languages** | C/C++, C#, Java, Javascript |
-| **Front-End** | HTML, CSS, WPF |
-| **Testing** | Automation Testing, Manual Testing |
-| **Version Control** | Git |
-| **Soft Skills** | Teamwork, Communication, Customer care, Problem solving, Clean code, Vibe Coding |
+## 🛠 Tech Stack
 
----
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=cs,dotnet,java,spring,cpp,js,html,css,postgres,mysql,docker,redis,rabbitmq,git,vscode,selenium" />
+</div>
+
+<br />
 
 ## 💼 Work Experience
 
-### **Backend Developer** | *Freelancer*
-*November 2024 - Present*
-- **Technologies:** ASP.Net API, Rabbit MQ, Redis, Docker
-- **Patterns:** Clean Architecture, Unit Of Work, CQRS Pattern
-- **Key Responsibilities:**
-  - Designed and implemented high-performance and scalable APIs using ASP.NET Web API and Entity Framework.
-  - Collaborated on security solutions (authentication, authorization) and caching strategies.
-  - Worked with stakeholders to analyze business logic.
-  - Implemented unit tests and participated in UI/UX design.
-  - Planned and monitored development phases.
+### <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcDl5YmEwdXdnYmEwdXdnYmEwdXdnYmEwdXdnYmEwdXdnYmEwdXdnYmEw/giphy.gif" width="30"> Backend Developer (Freelancer)
+_November 2024 - Present_
 
-### **.Net Developer** | *IIT Joint Stock Company Can Tho*
-*April 2025 - September 2025*
-- **Technologies:** ASP.NET, WPF, .NET MAUI, Socket
-- **Architecture:** Three layer pattern
-- **Key Responsibilities:**
-  - Developed applications for Windows and mobile devices leading to a 50% increase in computer lab management efficiency.
-  - Implemented LAN-based connectivity, screen monitoring, multi-mode chat, remote control, and system command execution.
-  - Created features for screen monitoring, file transfer, and remote control (similar to UltraViewer).
+- **Tech**: ASP.NET API, RabbitMQ, Redis, Docker
+- **Focus**: Clean Architecture, CQRS, Unit Of Work
+- **Key Achievements**:
+  - Designed scalable APIs using ASP.NET Web API & EF.
+  - Implemented security (AuthN/AuthZ) and caching strategies.
+  - Optimized database queries and system logic.
 
-### **Automation Tester** | *FPT Software Can Tho*
-*November 2024 - April 2025*
-- **Technologies:** Java, Cucumber, Selenium
-- **Pattern:** POM Pattern
-- **Key Responsibilities:**
-  - Converted over 100 manual test cases to automated scripts, accelerating testing by 50% and development by 20%.
-  - Identified and resolved potential software errors with the development team.
+### <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcDl5YmEwdXdnYmEwdXdnYmEwdXdnYmEwdXdnYmEwdXdnYmEwdXdnYmEw/giphy.gif" width="30"> .NET Developer (IIT Joint Stock Company)
+_April 2025 - September 2025_
 
-### **Backend Developer** | *FPT Software Can Tho*
-*May 2023 - August 2023*
-- **Technologies:** Java, Spring Boot, Hibernate
-- **Architecture:** Three layer architecture
-- **Key Responsibilities:**
-  - Trained in Java Spring Boot and software development processes.
-  - Built over 30 APIs for an E-Commerce project.
+- **Tech**: ASP.NET, WPF, .NET MAUI, Socket
+- **Key Achievements**:
+  - Increased lab management efficiency by **50%**.
+  - Built real-time monitoring and remote control features utilizing Socket programming.
+  - Developed cross-platform solutions for Windows and Mobile.
+
+### <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcDl5YmEwdXdnYmEwdXdnYmEwdXdnYmEwdXdnYmEwdXdnYmEwdXdnYmEw/giphy.gif" width="30"> Automation Tester (FPT Software)
+_November 2024 - April 2025_
+
+- **Tech**: Java, Cucumber, Selenium
+- **Key Achievements**:
+  - Automating **100+** manual test cases.
+  - Accelerated testing process by **50%**.
+
+### <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcDl5YmEwdXdnYmEwdXdnYmEwdXdnYmEwdXdnYmEwdXdnYmEwdXdnYmEw/giphy.gif" width="30"> Backend Developer (FPT Software)
+_May 2023 - August 2023_
+
+- **Tech**: Java, Spring Boot
+- **Key Achievements**:
+  - Built 30+ APIs for E-Commerce platform.
+  - Mastered Three-layer architecture and development workflows.
 
 ---
 
 ## 🚀 Projects
 
-### **DCSE**
-*August 2025 - December 2025*
-- **Role:** Backend Developer
-- **Technologies:** ASP.NET API, SQL Server, RabbitMQ, Docker, Redis
-- **Description:**
-  - Participated in core business analysis, UI/UX design, and module planning.
-  - Developed over 100 high-performance APIs focusing on scalability and throughput.
-  - Implemented integration tests, Docker containerization, and rate-limiting.
-  - Implemented JWT authentication and optimized database performance.
-  - Integrated Redis Cache and Serilog.
-
-### **OhBau**
-*May 2025 - July 2025*
-- **Role:** Backend Developer
-- **Technologies:** ASP.NET API, SQL Server, Redis
-- **Description:**
-  - Built systems utilizing ASP.NET Web API and SQL Server.
-  - Optimized API performance and database queries.
-  - Designed RESTful APIs for mobile applications.
-  - Implemented Redis Cache to improve response times.
-- **Links:**
-  - [Google Play](https://play.google.com/store/apps/details?id=com.ohbau_app&hl=vi)
-  - [App Store](https://apps.apple.com/vn/app/ohbau/id6747362141?l=vi)
+| Project | Role | Tech Stack | Description |
+| :--- | :--- | :--- | :--- |
+| **DCSE** | Backend | ASP.NET, SQL, RabbitMQ, Redis, Docker | Developed 100+ high-performance APIs, implemented Rate Limiting, JWT Auth, and comprehensive logging/monitoring. |
+| **OhBau** | Backend | ASP.NET, SQL, Redis | Mobile App Backend. Optimized query performance and integrated caching for high availability. [Google Play](https://play.google.com/store/apps/details?id=com.ohbau_app&hl=vi) |
 
 ---
 
 ## 🎓 Education & Achievements
 
-### **Software Engineering** | *FPT University Can Tho*
-*September 2020 - September 2024*
-- **GPA:** 3.0
-- **Achievements:**
-  - **2021:** Second prize in school level AUTONOMOUS CAR LEVEL 1 contest.
-  - **2023:** Presented a scientific research paper at The 25th International Conference on Information Integration and Web Intelligence.
-  - **2023 - 2024:** Outstanding student in scientific research.
-  - **2024:** Main author of the scientific research paper: *Evaluating the Privacy and Security Implications of AI-Based Medical Chatbots on Android Platforms*. ([Link to Paper](https://surl.li/qsvdfh))
+- **FPT University Can Tho** (2020 - 2024) - GPA: 3.0
+- 🥈 **2nd Prize** - Autonomous Car Level 1 Contest (2021)
+- 📝 **Paper Published**: "Evaluating the Privacy and Security Implications of AI-Based Medical Chatbots on Android Platforms" ([Link](https://surl.li/qsvdfh))
+- 🏆 **Outstanding Student** in Scientific Research (2023-2024)
+
+---
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
+</div>
