@@ -51,14 +51,6 @@
 </div>
 
 <br />
-
-### 📊 GitHub Analytics
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Quocba&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=512bd4&icon_color=512bd4" height="160" alt="stats graph" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Quocba&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=512bd4" height="160" alt="languages graph" />
-</div>
-
 <div align="center">
   <br />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Quocba&theme=radical&hide_border=true&bg_color=0d1117&stroke=512bd4&ring=512bd4&fire=512bd4&currStreakNum=512bd4" alt="streak graph" />
