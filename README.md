@@ -1,6 +1,6 @@
 <!-- ===== HERO / ANIMATION HEADER ===== -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/kvssankar/kvssankar/main/programmer.gif" width="500" />
+  <img src="https://raw.githubusercontent.com/kvssankar/kvssankar/main/programmer.gif" width="Auto" />
 </p>
 
 <p align="center">
