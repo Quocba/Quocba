@@ -57,15 +57,6 @@
 
 <br />
 
-### 🚀 Featured Projects
-
-| Project | Role | Architecture & Tech |
-| :--- | :--- | :--- |
-| **DCSE** | *Backend Lead* | **ASP.NET Core API**, **Microservices**, **CQRS**. <br/> Integrated **RabbitMQ** for async processing and **Redis** for distributed caching. Implemented **JWT** security and high-throughput endpoints. |
-| **OhBau** | *Backend Developer* | **RESTful API**, **SQL Server**. <br/> Optimized database performance for high-traffic mobile application. Reduced latency via aggressive caching strategies. |
-
-<br />
-
 ### 📊 GitHub Analytics
 
 <div align="center">
