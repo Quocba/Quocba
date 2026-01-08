@@ -113,8 +113,7 @@ I enjoy working in teams, learning continuously, and building **clean, maintaina
 ## 📊 GitHub Activity
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Quocba&show_icons=true&hide_border=true&theme=default" height="160" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Quocba&layout=compact&hide_border=true&theme=default" height="160" />
+  <img src="https://cdn.dribbble.com/userupload/19599497/file/original-f7b3e9e0794f0b580a84f09407b2e3ec.gif" />
 </p>
 
 ---
