@@ -1,103 +1,153 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=Hi+there!+I'm+Trần+Quốc+Bảo;I+am+a+Software+Developer;I+Love+Coding+and+Sharing" alt="Typing SVG" />
+  <img src="https://media.giphy.com/media/L1R1TVTh2RhtR5Jgww/giphy.gif" width="200" alt="3D Avatar Coding" />
+  
+  <h1 align="center">Hi, I'm Trần Quốc Bảo <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px"></h1>
+
+  <h3 align="center">
+    <a href="https://git.io/typing-svg">
+      <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=A9D2FF&center=true&vCenter=true&width=450&lines=Software+Developer;Backend+Architect;Continuous+Learner;Vibe+Coder" alt="Typing SVG" />
+    </a>
+  </h3>
+
+  <div align="center">
+    <a href="mailto:tqbao.work@gmail.com">
+      <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="30" />
+    </a>
+    <a href="https://linkedin.com/in/bao1605">
+      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="30" />
+    </a>
+    <a href="https://github.com/Quocba">
+      <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" height="30" />
+    </a>
+  </div>
 </div>
+
+<br/>
 
 <div align="center">
-  <a href="mailto:tqbao.work@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
-  </a>
-  <a href="https://linkedin.com/in/bao1605">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="https://github.com/Quocba">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  </a>
+  <h2>🏆 Trophies</h2>
+  <img src="https://github-profile-trophy.vercel.app/?username=Quocba&theme=juicyfresh&no-frame=true&margin-w=15&no-bg=true" />
 </div>
 
-<br />
+<br/>
 
 <div align="center">
-  I am seeking a work environment that values teamwork and professional development, where I can leverage continuous learning and create outstanding software for users.
+  <h2>📊 GitHub Stats</h2>
+  <img src="https://github-readme-stats.vercel.app/api?username=Quocba&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000" height="150" alt="stats graph" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Quocba&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000" height="150" alt="languages graph" />
+  <br/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Quocba&theme=tokyonight&hide_border=true&bg_color=00000000" alt="streak graph" />
 </div>
 
-<br />
+<br/>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Quocba&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Quocba&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117" height="150" alt="languages graph" />
+  <h2>🛠 Tech Stack</h2>
+  <img src="https://skillicons.dev/icons?i=cs,dotnet,java,spring,cpp,js,html,css,postgres,mysql,sqlserver,docker,redis,rabbitmq,git,vscode,selenium&perline=8" />
 </div>
 
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Quocba&theme=tokyonight&hide_border=true&bg_color=0d1117" alt="streak graph" />
-</div>
-
-<br />
-
-## 🛠 Tech Stack
-
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=cs,dotnet,java,spring,cpp,js,html,css,postgres,mysql,docker,redis,rabbitmq,git,vscode,selenium" />
-</div>
-
-<br />
+<br/>
 
 ## 💼 Work Experience
 
-### <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcDl5YmEwdXdnYmEwdXdnYmEwdXdnYmEwdXdnYmEwdXdnYmEwdXdnYmEw/giphy.gif" width="30"> Backend Developer (Freelancer)
-_November 2024 - Present_
+<table align="center" width="100%">
+  <thead>
+    <tr>
+      <th width="20%">Duration</th>
+      <th width="20%">Role & Company</th>
+      <th width="60%">Details</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td align="center">Nov 2024 - Present</td>
+      <td align="center"><strong>Backend Developer</strong><br/><em>Freelancer</em></td>
+      <td>
+        <ul>
+          <li><strong>Tech:</strong> ASP.NET API, Rabbit MQ, Redis, Docker</li>
+          <li><strong>Architecture:</strong> Clean Architecture, CQRS, Unit Of Work</li>
+          <li>Designed high-performance APIs & implemented security solutions.</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">Apr 2025 - Sep 2025</td>
+      <td align="center"><strong>.NET Developer</strong><br/><em>IIT Joint Stock Company</em></td>
+      <td>
+        <ul>
+          <li><strong>Tech:</strong> ASP.NET, WPF, .NET MAUI, Socket</li>
+          <li>Increased lab management efficiency by 50% via remote control apps.</li>
+          <li>Built multi-mode chat & screen monitoring systems.</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">Nov 2024 - Apr 2025</td>
+      <td align="center"><strong>Automation Tester</strong><br/><em>FPT Software Can Tho</em></td>
+      <td>
+        <ul>
+          <li><strong>Tech:</strong> Java, Cucumber, Selenium</li>
+          <li>Automated 100+ tests, accelerating process by 50%.</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">May 2023 - Aug 2023</td>
+      <td align="center"><strong>Backend Developer</strong><br/><em>FPT Software Can Tho</em></td>
+      <td>
+        <ul>
+          <li><strong>Tech:</strong> Java, Spring Boot, Hibernate</li>
+          <li>Built 30+ APIs for E-Commerce project.</li>
+        </ul>
+      </td>
+    </tr>
+  </tbody>
+</table>
 
-- **Tech**: ASP.NET API, RabbitMQ, Redis, Docker
-- **Focus**: Clean Architecture, CQRS, Unit Of Work
-- **Key Achievements**:
-  - Designed scalable APIs using ASP.NET Web API & EF.
-  - Implemented security (AuthN/AuthZ) and caching strategies.
-  - Optimized database queries and system logic.
+<br/>
 
-### <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcDl5YmEwdXdnYmEwdXdnYmEwdXdnYmEwdXdnYmEwdXdnYmEwdXdnYmEw/giphy.gif" width="30"> .NET Developer (IIT Joint Stock Company)
-_April 2025 - September 2025_
+## 🚀 Featured Projects
 
-- **Tech**: ASP.NET, WPF, .NET MAUI, Socket
-- **Key Achievements**:
-  - Increased lab management efficiency by **50%**.
-  - Built real-time monitoring and remote control features utilizing Socket programming.
-  - Developed cross-platform solutions for Windows and Mobile.
+<table align="center" width="100%">
+  <thead>
+    <tr>
+      <th width="20%">Project</th>
+      <th width="20%">Role</th>
+      <th width="60%">Description</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td align="center"><strong>DCSE</strong></td>
+      <td align="center">Backend Developer</td>
+      <td>
+         Developed 100+ high-performance APIs using <strong>ASP.NET</strong> & <strong>SQL Server</strong>. Implemented <strong>RabbitMQ</strong> for async tasks, <strong>Redis</strong> for caching, and <strong>Docker</strong> for deployment. Focused on scalability and security (JWT).
+      </td>
+    </tr>
+    <tr>
+      <td align="center"><strong>OhBau</strong></td>
+      <td align="center">Backend Developer</td>
+      <td>
+        Built backend for mobile app using <strong>ASP.NET Web API</strong>. Optimized database performance and integrated Redis Cache. <br/>
+        <a href="https://play.google.com/store/apps/details?id=com.ohbau_app&hl=vi">📲 Google Play</a> | <a href="https://apps.apple.com/vn/app/ohbau/id6747362141?l=vi">🍏 App Store</a>
+      </td>
+    </tr>
+  </tbody>
+</table>
 
-### <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcDl5YmEwdXdnYmEwdXdnYmEwdXdnYmEwdXdnYmEwdXdnYmEwdXdnYmEw/giphy.gif" width="30"> Automation Tester (FPT Software)
-_November 2024 - April 2025_
+<br/>
 
-- **Tech**: Java, Cucumber, Selenium
-- **Key Achievements**:
-  - Automating **100+** manual test cases.
-  - Accelerated testing process by **50%**.
-
-### <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcDl5YmEwdXdnYmEwdXdnYmEwdXdnYmEwdXdnYmEwdXdnYmEwdXdnYmEw/giphy.gif" width="30"> Backend Developer (FPT Software)
-_May 2023 - August 2023_
-
-- **Tech**: Java, Spring Boot
-- **Key Achievements**:
-  - Built 30+ APIs for E-Commerce platform.
-  - Mastered Three-layer architecture and development workflows.
-
----
-
-## 🚀 Projects
-
-| Project | Role | Tech Stack | Description |
-| :--- | :--- | :--- | :--- |
-| **DCSE** | Backend | ASP.NET, SQL, RabbitMQ, Redis, Docker | Developed 100+ high-performance APIs, implemented Rate Limiting, JWT Auth, and comprehensive logging/monitoring. |
-| **OhBau** | Backend | ASP.NET, SQL, Redis | Mobile App Backend. Optimized query performance and integrated caching for high availability. [Google Play](https://play.google.com/store/apps/details?id=com.ohbau_app&hl=vi) |
-
----
-
-## 🎓 Education & Achievements
-
-- **FPT University Can Tho** (2020 - 2024) - GPA: 3.0
-- 🥈 **2nd Prize** - Autonomous Car Level 1 Contest (2021)
-- 📝 **Paper Published**: "Evaluating the Privacy and Security Implications of AI-Based Medical Chatbots on Android Platforms" ([Link](https://surl.li/qsvdfh))
-- 🏆 **Outstanding Student** in Scientific Research (2023-2024)
-
----
+## 🎓 Education
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
+  <img src="https://media.giphy.com/media/L1R1TVTh2RhtR5Jgww/giphy.gif" width="50" style="visibility:hidden;" /> <!-- Spacer for centering if needed, or remove -->
+  <strong>Bachelor of Software Engineering</strong> | FPT University Can Tho (2020 - 2024) | <strong>GPA: 3.0</strong>
+  <br/>
+  <em>Achievements: 2nd Prize Autonomous Car Level 1 (2021), Published Scientific Paper (2023, 2024)</em>
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer&text=Let's%20Code%20The%20Future&fontSize=30&animation=fadeIn&fontAlign=50" />
 </div>
