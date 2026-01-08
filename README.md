@@ -21,11 +21,6 @@
 
 <br />
 
-### 👨‍💻 About Me
-
-> I am a dedicated **Software Developer** specializing in the **.NET ecosystem**. My passion lies in building scalable, high-performance backend systems and architecting clean, maintainable solutions. I actively leverage modern technologies like **Microservices**, **Docker**, and **Cloud-native patterns** to solve complex business problems.
-
-<br />
 
 ### 🛠 Tech Stack & System Design
 
